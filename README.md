@@ -17,7 +17,7 @@ Say you want to switch to English input method when you leave insert mode, you c
             "commands": [
                 {
                     "command": "switchim.use",
-                    "args": ['com.apple.keyboardlayout.all']
+                    "args": ["com.apple.keyboardlayout.all"]
                 }
             ]
         }
